@@ -1388,7 +1388,7 @@ fi
 
 
 # bash -i <(curl -s https://raw.githubusercontent.com/RunOnFlux/fluxnode-multitool/master/install_pro.sh)
-bash -i <(curl -s https://github.com/RunOnFlux/fluxnode-multitool/raw/c6563fa691b73d68a538b1dfa610ecad45da1a73/install_pro.sh)
+bash -i <(curl -s https://raw.githubusercontent.com/RunOnFlux/fluxnode-multitool/c6563fa691b73d68a538b1dfa610ecad45da1a73/install_pro.sh)
 
 
 
